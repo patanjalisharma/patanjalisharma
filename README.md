@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on building a collaborative platform<br>🤝I'm looking for help with AWS<br>🌱I'm currently learning Next.js<br>
+🔭I'm currently working on building a file storage thing<br>🤝I'm looking for help with AWS<br>🌱I'm currently learning Next.js<br>
 
 
 ## 🌐 Socials:
